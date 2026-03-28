@@ -1,8 +1,13 @@
 Digital Literacy Project
 Student Details
+
 Name: Priyanshu Sinha
+
 Registration Number: 25BCE10710
+
 Course: CSE0001 – Digital Literacy
+
+
 Project Overview
 
 This project focuses on developing essential digital literacy skills required in academic and professional environments. It covers practical tasks including infographic design, building a digital portfolio, coding practice, professional communication, and cybercrime awareness. The objective is to enhance technical knowledge, improve communication skills, and promote responsible digital behavior.
